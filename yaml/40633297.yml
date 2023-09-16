@@ -1,0 +1,40 @@
+---
+id: 40633297
+name: Bad Reaction to Simochi
+type: Trap Card
+frameType: trap
+desc: As long as this card remains face-up on the field, any effect of increasing
+  your opponent's Life Points is changed to inflict the same amount of points in damage
+  to your opponent's Life Points.
+race: Continuous
+card_sets:
+- set_name: Dark Beginning 2
+  set_code: DB2-EN202
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '3.05'
+- set_name: Legacy of Darkness
+  set_code: LOD-093
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '2.88'
+- set_name: Legacy of Darkness
+  set_code: LOD-EN093
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '2.19'
+card_images:
+- id: 40633297
+  image_url: https://images.ygoprodeck.com/images/cards/40633297.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/40633297.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/40633297.jpg
+- id: 40633297
+  image_url: https://images.ygoprodeck.com/images/cards/40633297.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/40633297.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/40633297.jpg
+card_prices:
+- cardmarket_price: '0.32'
+  tcgplayer_price: '0.59'
+  ebay_price: '1.85'
+  amazon_price: '4.72'
+  coolstuffinc_price: '0.99'
